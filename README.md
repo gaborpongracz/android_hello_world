@@ -1,4 +1,4 @@
-android_hello_world
+Android Test App
 ===================
 
 Hello World Android App For Testing
